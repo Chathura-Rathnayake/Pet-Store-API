@@ -56,7 +56,7 @@ Then the application can be executed by entering following command
 
     java -jar build/petstore-runner.jar
 
-## Running the application in devloper mode
+## Running the application in developer mode
 
 You can run your application in dev mode that enables live coding using:
 
