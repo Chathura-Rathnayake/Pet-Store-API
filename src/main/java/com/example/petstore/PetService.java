@@ -94,6 +94,7 @@ public class PetService {
   return pet;
  }
  
+//NOTE : pet types will be also added when a pet data is added to the system. Because of that, a seperate "add pet type" API is not there.
  public Pet addPet(Pet pet)
  {
   pet.setId(petIdMap.size()+1);
